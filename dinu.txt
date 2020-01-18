@@ -1,0 +1,4 @@
+this is for stash
+this is for 2nd tym stash
+:wq
+sucess
